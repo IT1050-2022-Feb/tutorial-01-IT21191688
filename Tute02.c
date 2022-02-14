@@ -18,4 +18,6 @@ int main()
 	}
 	
 	printf("Total Bill=%.2f", totalBill);
+	
+	return 0;
 }
